@@ -1,10 +1,7 @@
 <!-- # react-typescript-web-extension-starter -->
 
-![](https://i.imgur.com/sAJbv36.png)
 
 :desktop_computer: A Web Extension starter kit built with React, TypeScript, SCSS, Storybook, EsLint, Prettier, Jest, Bootstrap,x &amp; Webpack. Compatible with both Google Chrome + Mozilla Firefox.
-
-![Example Extension Popup](https://i.imgur.com/Wp37usG.png "Example Extension Popup")
 
 **Getting Started**
 
